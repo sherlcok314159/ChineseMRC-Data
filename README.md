@@ -74,7 +74,7 @@
 ### 5.2 Dureader-robust
 
 <div align=center>
-<img src='https://github.com/sherlcok314159/ChineseMRC-Data/blob/main/Images/dureader_robust.svg' width=700px>
+<img src='https://github.com/sherlcok314159/ChineseMRC-Data/blob/main/Images/dureader_robust.svg' width=500px>
 </div>
 
 第一个方面则是测试**模型对于改写后的query的鲁棒性**
@@ -96,7 +96,7 @@
 ### 5.4 Dureader2.0
 
 <div align=center>
-<img src='https://github.com/sherlcok314159/ChineseMRC-Data/blob/main/Images/dureader2.svg' width=700px>
+<img src='https://github.com/sherlcok314159/ChineseMRC-Data/blob/main/Images/dureader2.svg' width=500px>
 </div>
 
 不同query类型分布如下：
