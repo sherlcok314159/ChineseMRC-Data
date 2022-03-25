@@ -85,11 +85,13 @@
 | All |  |  |  | 20,778 |
 
 第一个方面则是测试**模型对于改写后的query的鲁棒性**
-![[dureader_robust_1.png]]
+![](https://github.com/sherlcok314159/ChineseMRC-Data/blob/main/Images/dureader_robust_1.png)
+
 第二个方面则是会构造困惑度较大的样本，**将错误答案和问题的句式结合在一起**，如果模型类似于正则查找而没有理解语义的话，容易回答错误
-![[dureader_robust_2.png]]
+![](https://github.com/sherlcok314159/ChineseMRC-Data/blob/main/Images/dureader_robust_2.png)
+
 第三个方面则是从**泛化性**来评测模型
-![[dureader_robust_3.png]]
+![](https://github.com/sherlcok314159/ChineseMRC-Data/blob/main/Images/dureader_robust_3.png)
 
 ### 5.3 Dureader-Yes/No
 **观点型**，answer即为模型抽取的答案，标签分为Yes, No以及Depends；**数据量：91.4K = train(75K) + eval(5.4K) + test(11K)**
