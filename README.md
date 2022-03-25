@@ -6,7 +6,7 @@
 - 特点：**数据量：572.3K**；**问题类型：单片段抽取，包括不可回答负例**；百度于2016年开源的数据集，数据来自于**百度知道**；格式为一个问题多篇意思基本一致的文章，分为人为标注以及浏览器检索；数据**整体质量中**，因为混合了很多检索而来的文章；文章分为人工标注(**ANN**)和浏览器检索(**IR**)；问题和文章的答案分为可回答(**positive**)和不可回答(**other_negative**)；query-passage-answer三元组，**无答案索引**
 
 <div align=center>
-<img src='https://github.com/sherlcok314159/ChineseMRC-Data/blob/main/Images/webqa.svg'>
+<img src='https://github.com/sherlcok314159/ChineseMRC-Data/blob/main/Images/webqa.svg' width=700px>
 </div>
 
 - 示例：
