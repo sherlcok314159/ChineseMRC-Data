@@ -101,12 +101,9 @@
 
 不同query类型分布如下：
 
-|  Query Type | train set | dev set | test set |
-|:-----------:|:---------:|:-------:|:--------:|
-|     Total    |   271574  |  10000  |   20000  |
-| Description |   170428  |   6378  |   12437  |
-|    Entity   |   76686   |   2825  |   5786   |
-|    Yes_No   |   24460   |   797   |   1777   |
+<div align=center>
+<img src='https://github.com/sherlcok314159/ChineseMRC-Data/blob/main/Images/query_type.svg' width=500px>
+</div>
 
 - 示例：
 
