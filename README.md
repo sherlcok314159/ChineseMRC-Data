@@ -102,7 +102,7 @@
 不同query类型分布如下：
 
 <div align=center>
-<img src='https://github.com/sherlcok314159/ChineseMRC-Data/blob/main/Images/query_type.svg' width=500px>
+<img src='https://github.com/sherlcok314159/ChineseMRC-Data/blob/main/Images/query_type.svg' width=400px>
 </div>
 
 - 示例：
