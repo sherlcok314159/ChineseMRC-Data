@@ -6,7 +6,7 @@
 - 特点：**数据量：572.3K**；**问题类型：单片段抽取，包括不可回答负例**；百度于2016年开源的数据集，数据来自于**百度知道**；格式为一个问题多篇意思基本一致的文章，分为人为标注以及浏览器检索；数据**整体质量中**，因为混合了很多检索而来的文章；文章分为人工标注(**ANN**)和浏览器检索(**IR**)；问题和文章的答案分为可回答(**positive**)和不可回答(**other_negative**)；query-passage-answer三元组，**无答案索引**
 
 <div align=center>
-<img src='https://github.com/sherlcok314159/ChineseMRC-Data/blob/main/Images/webqa.svg' width=700px>
+<img src='https://github.com/sherlcok314159/ChineseMRC-Data/blob/main/Images/webqa.svg' width=600px>
 </div>
 
 - 示例：
@@ -74,7 +74,7 @@
 ### 5.2 Dureader-robust
 
 <div align=center>
-<img src='https://github.com/sherlcok314159/ChineseMRC-Data/blob/main/Images/dureader_robust.svg' width=500px>
+<img src='https://github.com/sherlcok314159/ChineseMRC-Data/blob/main/Images/dureader_robust.svg' width=400px>
 </div>
 
 第一个方面则是测试**模型对于改写后的query的鲁棒性**
@@ -96,7 +96,7 @@
 ### 5.4 Dureader2.0
 
 <div align=center>
-<img src='https://github.com/sherlcok314159/ChineseMRC-Data/blob/main/Images/dureader2.svg' width=500px>
+<img src='https://github.com/sherlcok314159/ChineseMRC-Data/blob/main/Images/dureader2.svg' width=400px>
 </div>
 
 不同query类型分布如下：
