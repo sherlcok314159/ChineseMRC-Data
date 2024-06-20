@@ -4,7 +4,7 @@
 
 ```
 @misc{MRC2022tai,
-  author = {Yunpengtai},
+  author = {Yunpeng Tai},
   title = {Collections of all Chinese MRC data},
   year = {2022},
   publisher = {GitHub},
